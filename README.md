@@ -8,3 +8,6 @@ Washington University ML course at Coursera
 
 Calculate w0 as following:
 ![w0 formula](week1/w0_formula.png "w0 formula")
+
+Calculate w1 as following:
+![w1 formula](week1/w1_formula.png "w1 formula")
