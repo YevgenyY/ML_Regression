@@ -13,6 +13,6 @@ Calculate w1 as following:
 ![w1 formula](week1/w1_formula.png "w1 formula")
 
 ## Note: you need to calculate these 4 things
-![4_things](week1/4things.png "4 things formulas")
+![4_things](week1/4_things.png "4 things formulas")
 
 
