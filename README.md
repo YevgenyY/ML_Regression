@@ -15,4 +15,7 @@ Calculate w1 as follows:
 ## Note: you need to calculate these 4 things
 ![4_things](week1/4_things.png "4 things formulas")
 
+# Week 4
+
+Useful link [http://statweb.stanford.edu/~tibs/sta305files/](http://statweb.stanford.edu/~tibs/sta305files/)
 
